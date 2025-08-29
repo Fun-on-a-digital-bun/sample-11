@@ -11099,8 +11099,8 @@ header.masthead h1 {
 }
 
 header.masthead p {
-  color: #2E2D2D !important;
-  text-shadow: none !important;
+  color: #FFFFFF !important;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5) !important;
   font-weight: 600 !important;
 }
 
