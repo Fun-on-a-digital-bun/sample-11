@@ -11046,7 +11046,7 @@ header.masthead h1, header.masthead .h1 {
 
 #mainNav .navbar-brand img {
   transition: height 0.3s ease !important;
-  height: 200px !important;
+  height: 220px !important;
 }
 
 @media (max-width: 991px) {
